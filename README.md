@@ -21,4 +21,4 @@
 *User Story #9: The img element should be centered within its parent element.
 
 
-![alt tributepage](https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg);
+![alt tributepage](https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg)
